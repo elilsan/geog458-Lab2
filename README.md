@@ -27,6 +27,6 @@ Download the csv files here:
 * [Dataset 3][]
 
 
-[Dataset 1]: https://github.com/elilsan/geog458-Lab2/blob/main/assets/microplastics-data.csv
-[Dataset 2]: https://github.com/elilsan/geog458-Lab2/blob/main/assets/ca-drought.csv
-[Dataset 3]: https://github.com/elilsan/geog458-Lab2/blob/main/assets/wildfires.csv
+[Dataset 1]: assets/1-microplastics.csv
+[Dataset 2]: assets/2-californiadrought.csv
+[Dataset 3]: assets/3-wildfires.csv
