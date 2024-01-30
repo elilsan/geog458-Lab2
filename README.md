@@ -2,11 +2,11 @@
 Created by: Elizabeth Luna
 # Word Clouds
 1st Image: "Microplastic"
-![Image1](\img\1-wordcloud.png)
+![Image1](img/1-wordcloud.png)
 2nd Image: "California Drought"
-![Image2](\img\2-wordcloud.png)
+![Image2](img/2-wordcloud.png)
 3rd Image: "Wildfire"
-![Image3](\img\3-wordcloud.png)
+![Image3](img/3-wordcloud.png)
 
 # Explanation
 For my word clouds, I centered my topics around geographical issues, especially those that are relevant in current times. For the topics, I choose the keywords: "Microplastics," "California Drought," and "Wildfires." I decided to focus on these specific keywords because they are somewhat intertwined yet distinct geographical issues. For the 'California Drought' and 'Wildfires' terms, they are both the result of climate change and the consequences on the environment. In addition, the 'Mircoplastics' term can contribute to climate change because of the waste that is being generated and is not able to degrade fast enough. 
